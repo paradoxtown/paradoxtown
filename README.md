@@ -9,10 +9,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Kwai
+- 🔭 I’m currently studing at UoE
 - 🌱 I’m currently learning Recommendation System
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+- 🎶 I interned at ByteDance and Kwai.
 - 💬 Ask me about anything but technology
 - 📫 How to reach me: WeChat: jinze4869
 - 😄 Pronouns: ...
