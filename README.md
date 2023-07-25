@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - Email: *zej.97@gmail.com*
   - Linkedin: [*Ze Jin*](https://www.linkedin.com/in/ze-jin-7219531b2/)
-- 🍟 Blog: [*zej97.github.io*](zej97.github.io)
+- 🍟 Blog: [*zej97.github.io*](https://zej97.github.io/)
 - 😄 Pronouns: *Gin*
