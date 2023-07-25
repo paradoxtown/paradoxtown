@@ -10,9 +10,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently studing at the *University of Edinburgh*
-- 🎶 I interned at *ByteDance*, *Kwai* and *Megvii*.
 - 📫 How to reach me:
   - Email: *zej.97@gmail.com*
-  - Linkedin: [Ze Jin](https://www.linkedin.com/in/ze-jin-7219531b2/)
-- 🍟 Blog: zej97.github.io
+  - Linkedin: [*Ze Jin*](https://www.linkedin.com/in/ze-jin-7219531b2/)
+- 🍟 Blog: [*zej97.github.io*](zej97.github.io)
 - 😄 Pronouns: *Gin*
