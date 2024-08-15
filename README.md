@@ -8,10 +8,18 @@
 
 Here are some ideas to get you started:
 -->
+I'm Ze Jin,
 
-- 🔭 I’m currently studing at the *University of Edinburgh*
+- 🎓 Under-graduated @ Class 2020, [School of Computer Science and Engineering, *Beihang University*](https://scse.buaa.edu.cn/English/Home.htm)
+- 🎓 Post-graduated @ Class 2023, [Informatic School, *University of Edinburgh*](https://informatics.ed.ac.uk/)
+- 💼 Interned @ [Model Group, Social Science Department, *Kwai*](https://www.kwai.com/foryou) 2020 - 2021
+- 💼 Interned @ [Live Recommendation Group, Douyin-DATA, *ByteDance*](https://www.bytedance.com/en/) 2021 - 2022
+- 💼 Full-Time Recommendation Algorithm Engineer @ [Taotian, *Alibaba*](https://www.alibaba.com/)
+
+---
+
 - 📫 How to reach me:
   - Email: *zej.97@gmail.com*
   - Linkedin: [*Ze Jin*](https://www.linkedin.com/in/ze-jin-7219531b2/)
 - 🍟 Blog: [*zej97.github.io*](https://zej97.github.io/)
-- 😄 Pronouns: *Gin*
+- 😄 Pronouns: *Jin*
