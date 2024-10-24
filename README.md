@@ -12,8 +12,8 @@ I'm Ze Jin,
 
 - 🎓 Under-graduated @ Class 2020, [School of Computer Science and Engineering, *Beihang University*](https://scse.buaa.edu.cn/English/Home.htm)
 - 🎓 Post-graduated @ Class 2023, [Informatic School, *University of Edinburgh*](https://informatics.ed.ac.uk/)
-- 💼 Interned @ [Model Group, Social Science Department, *Kwai*](https://www.kwai.com/foryou) 2020 - 2021
-- 💼 Interned @ [Live Recommendation Group, Douyin-DATA, *ByteDance*](https://www.bytedance.com/en/) 2021 - 2022
+- 💼 Interned @ RecoSys Matching [Model Group, Social Science Department, *Kwai*](https://www.kwai.com/foryou) 2020 - 2021
+- 💼 Interned @ RecoSys Ranking  [Live Recommendation Group, Douyin-DATA, *ByteDance*](https://www.bytedance.com/en/) 2021 - 2022
 - 💼 Full-Time Recommendation Algorithm Engineer @ [Taotian, *Alibaba*](https://www.alibaba.com/)
 
 ---
